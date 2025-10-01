@@ -1,0 +1,25 @@
+{
+  "name": "iot_dht11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erlaniobandeira/IOT_DHT11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erlaniobandeira/IOT_DHT11/issues"
+  },
+  "homepage": "https://github.com/erlaniobandeira/IOT_DHT11#readme",
+  "description": "",
+  "dependencies": {
+    "@serialport/parser-readline": "^13.0.0",
+    "mqtt": "^5.14.1",
+    "serialport": "^13.0.0"
+  }
+}
